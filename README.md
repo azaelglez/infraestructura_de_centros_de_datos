@@ -1,3 +1,3 @@
 # infraestructura_de_centros_de_datos
 tarea 1 servidores de vídeo juegos 
-para considerar tener un servidor para video juegos se requiera tener un buen hosting, ya que, si quieres tener una plataforma multijugador, entonces eso quiere decir que los servidores dedicados deben contemplar las características que se disponen del hardware y de sus recursos adecuados para que pueda soportar a una diversidad de clientes, para que les permita conectar sin problema alguno al dicho videojuego. Ahora bien, no todos los servidores dedicados serán adecuados para elaboración de dicho videojuego, ya que, uno de los factores principales de los servidores son la latencia, ya que, como sabemos la latencia significa los retrasos temporales para los videojuegos.
+para considerar tener un servidor para video juegos se requiera tener un buen hosting , para no se caiga ningun tipo de juego 
